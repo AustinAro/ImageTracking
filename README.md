@@ -121,7 +121,7 @@ audio.pause();
 ```
 /marker-drummer-raccoon
 ├── index.html
-├── main.js
+├── main3.js
 ├── libs/
 │ └── mindar/
 │ └── mindar-image-three.prod.js
