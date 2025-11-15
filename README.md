@@ -137,6 +137,9 @@ audio.pause();
 
 ## OUTPUT:
 
+<img width="1919" height="804" alt="Screenshot 2025-11-15 084114" src="https://github.com/user-attachments/assets/889d98f7-bede-4e06-9d7d-97243b11c012" />
+
+
 
 ## RESULT:
 The experiment successfully demonstrates marker-based AR using MindAR and Three.js.
